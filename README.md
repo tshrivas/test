@@ -3,9 +3,9 @@ Copyright (c) 2016 - 2019
 
 ---
 
-**<span style="color:#E57932">Level:</span>** Intermediate <br/>
-**<span style="color:#E57932">Recommended Use:</span>** Regression Models<br/>
-**<span style="color:#E57932">Domain:</span>** Automobiles<br/> 
+** <span style="color:#E57932">Level:</span>** Intermediate <br/>
+** <span style="color:#E57932">Recommended Use:</span>** Regression Models<br/>
+** <span style="color:#E57932">Domain:</span>** Automobiles<br/> 
 
 ## <span style="color:#15A3D8">Auto MPG Data Set</span> 
 ### <span style="color:#15A3D8">Can you predict the fuel-efficieny of a car?</span> 
