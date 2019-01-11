@@ -56,4 +56,7 @@ This data set has been sourced from the Machine Learning Repository of Universit
 
 <p style='color:red'>This is some red text.</p>
 
+<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
 
