@@ -1,6 +1,7 @@
 Data Science Dojo <br/>
 Copyright (c) 2016 - 2019
 
+<font color="red">Status: **Not yet implemented**</font>
 ---
 
 ** <span style="color:#E57932">Level:</span>** Intermediate <br/>
