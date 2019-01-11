@@ -45,18 +45,5 @@ This $intermediate$ level data set has 398 rows and 9 columns and provides milea
 This data set has been sourced from the Machine Learning Repository of University of California, Irvine [Auto MPG Data Set (UC Irvine)](https://archive.ics.uci.edu/ml/datasets/auto+mpg). The UCI page mentions [StatLib (Carnegie Mellon University)](http://lib.stat.cmu.edu/datasets/) as the original source of the data set.   
 
 
-
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-```json
-   // code for coloring
-```
-
-<p style='color:red'>This is some red text.</p>
-
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+<span style="color:orange;">Word up</span>
 
